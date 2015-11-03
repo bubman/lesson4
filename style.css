@@ -1,0 +1,28 @@
+table {
+border: 1px solid #111;
+}
+td,th {
+border: 1px solid #333; 
+padding: 5px; 
+}
+.tabl1{
+margin: auto;
+}
+.tabl2{
+width: 600px;
+margin: auto;
+margin-top: 20px;
+}
+.tabl2 th{
+text-align: left;	
+}
+.tabl3{
+width: 600px;
+margin: auto;
+margin-top: 20px;
+border-collapse: collapse;
+border: 3px ridge #A9A9A9;
+}
+.tabl3 th{
+text-align: left;
+}
